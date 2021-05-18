@@ -1,0 +1,35 @@
+
+.headerContainer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+    border-bottom: 1px solid #e6e8eb;
+}
+
+.headerContainer img {
+  max-width: 200px;
+}
+
+.headerContainer ul {
+    display: flex;
+    margin: 10px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.headerContainer ul li {
+  display: block;
+  margin: 10px;
+  color: white;
+  padding: 10px;
+}
+.navMenuContainer{
+  display: flex;
+  align-items: center;
+  max-height: 40px;
+}

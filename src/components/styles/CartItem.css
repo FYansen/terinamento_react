@@ -1,0 +1,26 @@
+
+.itemContainer{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 10px;
+   margin: 5px;
+    
+}
+.removeContainer{
+    display: flex;
+    align-items: center;
+
+}
+
+.removeContainer Button{
+    margin-left: 10px;
+}
+
+.itemContainer img{
+    max-width: 50px;
+    
+}
+.itemContainer p {
+    margin: 2px;
+}

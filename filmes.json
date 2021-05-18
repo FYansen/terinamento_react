@@ -1,0 +1,88 @@
+{
+  "movies": [
+    {
+      "name": "Vingadores Guerra Infinita",
+      "description": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+      "release_date": "2017",
+      "genre": "Aventura,Ação",
+      "runtime": "150",
+      "rated": "12 Anos",
+      "tickets_count": 0,
+      "playing": true,
+      "poster_image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+      "banner": "https://s2.glbimg.com/2C0hMRuCY_7NfDPjby4_Bjmq8Nc=/e.glbimg.com/og/ed/f/original/2018/03/22/avengers-infinity-war-official-poster-2018-4o.jpg",
+      "id": 1
+    },
+    {
+      "name": "Whiplash",
+      "description": "O jovem músico Andrew Neiman batalha para ser o melhor baterista de jazz de sua geração. Para isso, acaba sofrendo nas mãos de um exigente mestre do jazz, o professor Terence Fletcher, que acaba ultrapassando limites, o que leva Andrew a transformar seu sonho em obsessão e colocar em risco sua saúde física e mental.",
+      "release_date": "2014",
+      "genre": "Drama",
+      "runtime": "106",
+      "rated": "16 Anos",
+      "tickets_count": 0,
+      "playing": true,
+      "poster_image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX675_CR0,0,675,999_AL_.jpg",
+      "trailer": "https://www.youtube.com/embed/7d_jQycdQGo",
+      "banner": "https://cdn-images-1.medium.com/max/1280/1*wGfukLwVVWMNWUxxGGA5Eg.jpeg",
+      "id": 2
+    },
+    {
+      "name": "Vingadores Endgame",
+      "description": "A culminação de 21 filmes interconectados, a quarta edição da saga dos Vingadores vai chamar o público para testemunhar o ponto de virada desta jornada épica. Nossos amados heróis entenderão verdadeiramente o quão frágil é essa realidade e os sacrifícios que devem ser feitos para sustentá-la e reviver os que foram desintegrados.",
+      "release_date": "2019",
+      "genre": "Ação,Aventura,Drama",
+      "runtime": "150",
+      "rated": "12 Anos",
+      "tickets_count": 0,
+      "playing": false,
+      "poster_image": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/hA6hldpSTF8",
+      "banner": "",
+      "id": 3
+    },
+    {
+      "name": "Blade Runner 2049",
+      "description": "Após descobrir um segredo enterrado há muito tempo, que ameaça o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que está desaparecido há 30 anos.",
+      "release_date": "2017",
+      "genre": "Ação,Drama,Ficção Científica",
+      "runtime": "164",
+      "rated": "18 Anos",
+      "tickets_count": 0,
+      "playing": true,
+      "poster_image": "https://m.media-amazon.com/images/M/MV5BMTU0NjM4MzI2N15BMl5BanBnXkFtZTgwMTQ2MzI2MzI@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/gCcx85zbxz4",
+      "banner": "https://cdn-images-1.medium.com/max/1920/1*aTlzQ_8AKDAi5820u_htew.jpeg",
+      "id": 4
+    },
+    {
+      "name": "O Rei Leão",
+      "description": "The Lion King é um futuro filme épico musical de drama estadunidense de 2019, dirigido e co-produzido por Jon Favreau e escrito por Jeff Nathanson, sendo o remake do longa-metragem animado O Rei Leão, de 1994, inspirado em partes da obra Hamlet, de William Shakespeare.",
+      "release_date": "2019",
+      "genre": "Animação",
+      "runtime": "88",
+      "rated": "Livre",
+      "tickets_count": 0,
+      "playing": false,
+      "poster_image": "https://m.media-amazon.com/images/M/MV5BMTg5NTY3OTU2N15BMl5BanBnXkFtZTgwOTgyOTA4NjM@._V1_SY1000_SX800_AL_.jpg",
+      "trailer": "https://www.youtube.com/embed/J57HnR6FPW0",
+      "banner": "https://i.ytimg.com/vi/J57HnR6FPW0/maxresdefault.jpg",
+      "id": 5
+    },
+    {
+      "name": "Manchester à Beira-Mar",
+      "description": "Lee Chandler é forçado a retornar para sua cidade natal com o objetivo de tomar conta de seu sobrinho adolescente após o pai do rapaz, seu irmão, falecer precocemente. Este retorno ficará ainda mais complicado quando Lee precisar enfrentar as razões que o fizeram ir embora e deixar sua família para trás, anos antes.",
+      "release_date": "2016",
+      "genre": "Drama",
+      "runtime": "137",
+      "rated": "18 Anos",
+      "tickets_count": 0,
+      "playing": true,
+      "poster_image": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "trailer": "https://www.youtube.com/embed/9jkQuK4IK8o",
+      "banner": "https://m.media-amazon.com/images/M/MV5BMTc4MTQxMTIwMl5BMl5BanBnXkFtZTgwNzM2NzE4OTE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "id": 6
+    }
+  ]
+  }
